@@ -1,0 +1,6 @@
+gradio
+pandas
+langchain
+openai
+langchain_community
+langchain_openai
